@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Djamaria
-- 👀 I’m interested in Mobile Dev!
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Web Dev!
+- 🌱 I’m currently learning React.JS
 - 📫 How to reach me : djawed.m.mazari@gmail.com
 
 <!---
